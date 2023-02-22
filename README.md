@@ -43,7 +43,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://sass-lang.com/) - Sass helps me write CSS faster and more efficiently, allowing me to spend less time on repetitive tasks and more time on design and development.
+- [Sass/Scss](https://sass-lang.com/) - Sass helps me write CSS faster and more efficiently, allowing me to spend less time on repetitive tasks and more time on design and development.
 
 ## Author
 
