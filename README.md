@@ -29,7 +29,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/easybank-landing-page-html-css-sassscss-javascript-lWd_V7yUIl
 - Live Site URL: https://htl-easybank-landing.netlify.app/
 
 ### Built with
